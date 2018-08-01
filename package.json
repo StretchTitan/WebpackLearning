@@ -1,0 +1,22 @@
+{
+  "name": "webpack-learning",
+  "version": "1.0.0",
+  "description": "udemy webpack course",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StretchTitan/WebpackLearning.git"
+  },
+  "author": "Christopher Breit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StretchTitan/WebpackLearning/issues"
+  },
+  "homepage": "https://github.com/StretchTitan/WebpackLearning",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
+  }
+}
